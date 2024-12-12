@@ -76,15 +76,15 @@
     }
 
     .img-1 {
-        background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(../img/pintura.png);
+        background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(../img/pintura.webp);
     }
 
     .img-2 {
-        background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(../img/imper.png);
+        background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(../img/imper.webp);
     }
 
     .img-3 {
-        background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(../img/calhas.png);
+        background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(../img/calhas.webp);
     }
 
     @include responsive($tablet) {

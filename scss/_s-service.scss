@@ -39,3 +39,14 @@
         }
     }
 }
+
+.s-companys {
+    overflow: hidden;
+    background-color: #f8f8f8;
+
+    .marquee-content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
